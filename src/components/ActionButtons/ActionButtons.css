@@ -1,0 +1,20 @@
+.p_action_buttons_container {
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border-bottom: 2px solid #f7f8fa;
+}
+
+.com_action_buttons_counter {
+  color: #919eb6;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%;
+}
+
+.com_action_buttons_item {
+  display: flex;
+  align-items: center;
+}

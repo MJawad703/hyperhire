@@ -1,0 +1,31 @@
+.com_post_header {
+  display: flex;
+  justify-content: flex-start;
+
+  align-items: center;
+  gap: 5px;
+  /* padding: 10px 20px; */
+}
+
+/* .com_post_headering_info_top {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-bottom: 5px;
+} */
+
+.com_post_heading_img {
+  width: 37.477px;
+  height: 37.477px;
+  border-radius: 100%;
+  background-color: #e3e3e3;
+}
+
+.com_post_headering_info_helper_text {
+  color: #919eb6;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 100%;
+  letter-spacing: -0.1px;
+}

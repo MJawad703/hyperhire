@@ -1,0 +1,12 @@
+.com_footer_container {
+  border-top: 1px solid #f7f8fa;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.com_footer_container > p {
+  color: #919eb6;
+}

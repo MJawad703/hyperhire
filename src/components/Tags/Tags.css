@@ -1,0 +1,14 @@
+.com_tags_container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  padding: 10px 20px;
+}
+
+.com_tags_container > * {
+  flex-grow: 0;
+  flex-shrink: 0;
+  min-width: 22%;
+  font-weight: 500;
+  /* Adjust the minimum width of the chips */
+}
